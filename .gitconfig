@@ -1,0 +1,21 @@
+[User]
+     email = mfarquharson1064@gmail.com
+     name = Rexman1064
+[Color]
+     status=auto
+     branch=auto
+     interactive=auto
+     diff=auto        
+[alias]
+	unstage = rest HEAD --
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        last = log -1 HEAD
+	visual = !gitk
+        graph = log --all --graph --decorate --oneline
+[rerere]
+	enabled = true
+[core]
+	excludesfile = /home/mfarquharson/.gitignore_global
