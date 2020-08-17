@@ -1,0 +1,4 @@
+ln -s ~/Desktop/Coding/dotfiles/.bashrc ~/.bashrc
+ln -s ~/Desktop/Coding/dotfiles/.vimrc ~/.vimrc
+ln -s ~/Desktop/Coding/dotfiles/.tmux.conf ~/.tmux.conf
+ln -s ~/Desktop/Coding/dotfiles/.gitconfig ~/.gitconfig
